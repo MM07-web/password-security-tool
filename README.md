@@ -18,7 +18,7 @@ A comprehensive password security toolkit demonstrating real-world cybersecurity
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/password-security-tool
+git clone https://github.com/MM07-web /password-security-tool
 cd password-security-tool
 
 # Install dependencies
